@@ -1,6 +1,6 @@
 # Hand Gesture Recognition using SVM
 
-This project implements a Hand Gesture Recognition system using Support Vector Machine (SVM).
+This project implements a Hand Gesture Recognition system using Support Vector Machine (SVM)..
 
 The model classifies different hand gestures from image data.
 
